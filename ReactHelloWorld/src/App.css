@@ -1,0 +1,13 @@
+/* src/App.css */
+body {
+  background-color: maroon;
+  color: white;
+  font-weight: bold;
+  /* Optional: This makes the text look nicer on the screen */
+  font-family: sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
